@@ -6,7 +6,7 @@ import theme_pattern from '/assets/theme_pattern.svg';
 const Experience = () => {
   const experienceData = [
     {
-      title: "Web Development using WordPress and Artifical Intelligence",
+      title: "Web Development using WordPress and Artificial Intelligence",
       company: "YugaYatra Retail OPC Limited",
       duration: "Apr 28, 2025 – Jun 28, 2025",
       highlights: [
